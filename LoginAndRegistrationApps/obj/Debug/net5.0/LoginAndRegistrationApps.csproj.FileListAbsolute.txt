@@ -1,0 +1,444 @@
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\appsettings.Development.json
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\appsettings.json
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.exe
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.deps.json
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.runtimeconfig.json
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.runtimeconfig.dev.json
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ref\LoginAndRegistrationApps.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.pdb
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.Views.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.Views.pdb
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Humanizer.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.csproj.AssemblyReference.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.GeneratedMSBuildEditorConfig.editorconfig
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.AssemblyInfoInputs.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.AssemblyInfo.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.csproj.CoreCompileInputs.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.MvcApplicationPartsAssemblyInfo.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorAssemblyInfo.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorAssemblyInfo.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\staticwebassets\LoginAndRegistrationApps.StaticWebAssets.Manifest.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\staticwebassets\LoginAndRegistrationApps.StaticWebAssets.xml
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\scopedcss\bundle\LoginAndRegistrationApps.styles.css
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.TagHelpers.input.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.TagHelpers.output.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorCoreGenerate.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorTargetAssemblyInfo.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorTargetAssemblyInfo.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.Views.pdb
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.csproj.CopyComplete
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\ref\LoginAndRegistrationApps.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.pdb
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.genruntimeconfig.cache
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\DemoProject\LoginAndRegistrationProj\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\appsettings.json
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.StaticWebAssets.xml
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.exe
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.deps.json
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.runtimeconfig.json
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.runtimeconfig.dev.json
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.pdb
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.Views.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.Views.pdb
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Humanizer.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.csproj.AssemblyReference.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.AssemblyInfoInputs.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.AssemblyInfo.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.csproj.CoreCompileInputs.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorAssemblyInfo.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorAssemblyInfo.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\scopedcss\bundle\LoginAndRegistrationApps.styles.css
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\staticwebassets\LoginAndRegistrationApps.StaticWebAssets.Manifest.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.TagHelpers.input.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.TagHelpers.output.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorCoreGenerate.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorTargetAssemblyInfo.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorTargetAssemblyInfo.cs
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.Views.pdb
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.csproj.CopyComplete
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\refint\LoginAndRegistrationApps.dll
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.pdb
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.genruntimeconfig.cache
+C:\Users\LEO\Downloads\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\ref\LoginAndRegistrationApps.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\appsettings.Development.json
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\appsettings.json
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.StaticWebAssets.xml
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.exe
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.deps.json
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.runtimeconfig.json
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.runtimeconfig.dev.json
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.pdb
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.Views.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\LoginAndRegistrationApps.Views.pdb
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Humanizer.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.csproj.AssemblyReference.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.AssemblyInfoInputs.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.AssemblyInfo.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.csproj.CoreCompileInputs.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.MvcApplicationPartsAssemblyInfo.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorAssemblyInfo.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorAssemblyInfo.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\scopedcss\bundle\LoginAndRegistrationApps.styles.css
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\staticwebassets\LoginAndRegistrationApps.StaticWebAssets.Manifest.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.TagHelpers.input.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.TagHelpers.output.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorCoreGenerate.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorTargetAssemblyInfo.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.RazorTargetAssemblyInfo.cs
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.Views.pdb
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.csproj.CopyComplete
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\refint\LoginAndRegistrationApps.dll
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.pdb
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\LoginAndRegistrationApps.genruntimeconfig.cache
+C:\Proyecto ASPNet Core\LoginAndRegistrationApps\LoginAndRegistrationApps\obj\Debug\net5.0\ref\LoginAndRegistrationApps.dll
